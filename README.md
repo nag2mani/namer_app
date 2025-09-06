@@ -68,13 +68,6 @@ The app follows a simple architecture:
 - **FavoritesPage**: Displays and manages favorite word pairs
 - **HistoryListView**: Animated list showing previously generated word pairs
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
