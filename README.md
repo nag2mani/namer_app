@@ -78,5 +78,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Flutter team for creating such an amazing framework
-- The authors of the english_words package
+- Google Codelab: https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0
