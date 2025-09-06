@@ -1,4 +1,4 @@
-# Flutter Namer App
+# Namer App
 
 A simple yet elegant Flutter application that generates random word pairs and allows users to save their favorites. This app demonstrates fundamental Flutter concepts including state management, responsive design, and animations.
 
