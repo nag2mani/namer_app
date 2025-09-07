@@ -21,8 +21,10 @@ A simple yet elegant Flutter application that generates random word pairs and al
 - **Accessibility**: Includes semantic labels for better screen reader support
 
 ## Screenshots
+<img width="300" height="600" alt="Screenshot 2025-09-07 at 7 59 52 AM" src="https://github.com/user-attachments/assets/62f0f4b4-3ad9-4c29-8a54-2e7cf077888d" />
 
-*[Screenshots to be added]*
+<img width="300" height="600" alt="Screenshot 2025-09-07 at 8 00 06 AM" src="https://github.com/user-attachments/assets/6636d85f-0112-4a34-95b2-d9811b780ed8" />
+
 
 ## Getting Started
 
